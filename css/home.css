@@ -1,0 +1,159 @@
+body{
+    font-family: 'Mulish', sans-serif;
+}
+
+
+.nav-con{
+    color: white;
+}
+.first img{
+    width:100%;
+    height: 380px;
+    margin-top: 60px;
+}
+.cont p{
+    margin-top: 25px;
+    font-family: 'Nuosu SIL', serif;
+    font-size: 20px;
+    line-height: 30px;
+    margin-left: 30px;
+    
+}
+.cont h3{
+    margin-top: 50px;
+    margin-left: 30px;
+    font-weight: bold;
+}
+
+
+footer{
+    margin-top: 60px;
+    background-image: url(../images/footer.jpg);
+    min-height: 500px;
+    
+}
+.footer-logo p{
+    color: white;
+  
+
+}
+.shl{
+    width: 60%;
+    height: 150px !important;
+    margin-top: 80px;
+    
+}
+
+.footer-logo ul{
+    padding:0;
+    margin: 0;
+    
+}
+.footer-logo ul li{
+    list-style: none;
+    float: left;
+    padding-right: 20px;
+    
+    
+    
+}
+.footer-logo ul li a{
+    list-style: none;
+    color:white;
+    
+    
+}
+.footer-links h3{
+    margin-top: 120px;
+    margin-bottom: 20px;
+    color:white;
+    font-size: 20px;
+    font-family: 'Rubik', sans-serif;
+    margin-left: 3px;
+}
+.footer-links ul li a{
+    text-decoration: none;
+    color:white;
+    font-size: 17px;
+    
+    
+
+    
+}
+.footer-links ul li {
+    text-decoration: none;
+    color:white;
+    line-height: 40px;
+    list-style: none;
+    font-size: 18px;
+   
+    
+    
+}
+.icon{
+    font-size: 25px !important;
+}
+.footer-links ul{
+    padding: 0px;
+   
+}
+.fi{
+    padding-right: 10px;
+    font-size: 12px !important;
+}
+.add{
+    margin-left:-1px;
+    padding-right: 15px;
+}
+.service-sec{
+   
+    min-height: 400px;
+    margin-top: 80px;
+}
+.mid {
+    min-height: 380px;
+    background-color:rgb(76, 71, 71);
+    text-align: center;
+    padding-top: 50px;
+    
+    border-radius: 20px;
+
+}
+.mid:hover{
+    border: 4px solid #df4b4b;
+   
+}
+
+.mid img{
+   width: 65px;
+  border: 1px solid #1dcdf1;
+  border-radius: 20px;
+  padding: 8px;
+}
+.mid img:hover{
+    background-color: aliceblue;;
+    border: 2px solid #1dcdf1;
+}
+.mid h5 {
+    margin-top: 20px;
+    color:#edcd45;
+    font-weight: bold;
+   
+}
+.mid p{
+    color:aliceblue;
+    font-size: 14px;
+    line-height: 30px;
+}
+.butn{
+    margin-left: 30px !important;
+}
+.bg-light {
+    background-color:rgb(76, 71, 71) !important;
+    margin-bottom: 20px;
+    
+}
+.nav-link{
+    color: white !important;
+    font-size: 20px;
+}
